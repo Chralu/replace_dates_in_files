@@ -1,0 +1,8 @@
+rename_files.py
+setup.cfg
+setup.py
+rename_files.egg-info/PKG-INFO
+rename_files.egg-info/SOURCES.txt
+rename_files.egg-info/dependency_links.txt
+rename_files.egg-info/requires.txt
+rename_files.egg-info/top_level.txt
